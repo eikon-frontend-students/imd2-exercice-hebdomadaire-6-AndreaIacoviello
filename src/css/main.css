@@ -50,7 +50,7 @@ body {
   font-family: Roboto;
   font-size: 22px;
 }
-.navigation2 {
-  align-self: stretch;
+
+.link p {
   color: #e5807c;
 }
